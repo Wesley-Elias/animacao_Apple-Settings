@@ -25,7 +25,7 @@
 
 <!-- ==> ==> ==> ==> Demostração da Aplicação <== <== <== <== -->
 <h1 align="center">
-  <img width="50%" alt="Apple settings" src="https://res.cloudinary.com/wesleyelias/image/upload/v1618081610/apple-settings/apple-settings_fkdueu.gif" />
+  <img width="50%" alt="Apple settings" src="https://res.cloudinary.com/wesleyelias/image/upload/v1618085561/apple-settings/apple-settings_1_em32mm.gif" />
 </h1>
 
 <!-- ==> ==> ==> ==> Sobre o projeto <== <== <== <== -->
@@ -73,7 +73,7 @@ $ git clone https://github.com/Wesley-Elias/animacao_Apple-Settings.git
 # Acesse a pasta do projeto
 $ cd animacao_Apple-Settings
 
-# Execute a extensão Live Sass Compiler
+# Execute a entensão Live Sass Compiler
 
 # Execute o arquivo
 index.html
