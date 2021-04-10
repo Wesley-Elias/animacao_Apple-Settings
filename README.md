@@ -82,7 +82,7 @@ index.html
 <!-- ==> ==> ==> ==> Deploy da aplica <== <== <== <== -->
 ## :desktop_computer: Deploy da aplicação
 
-O dev.finance$ está disponível nesse [link](https://applesettings-wesley-elias.vercel.app/)
+A animação está disponível nesse [link](https://applesettings-wesley-elias.vercel.app/)
 <!-- ==> ==> ==> ==> Inspirações/Referências <== <== <== <== -->
 ## :thought_balloon: Inspiração
 
